@@ -1,5 +1,3 @@
 # hello-world 
-This is new repository 
-My name is Yadnee Pawar
-Coss Pract 3
-printf("Hello World!)
+TECHNOLOGY
+Technology ("science of craft") is the sum of techniques, skills, methods, and processes used in the production of goods or services or in the accomplishment of objectives, such as scientific investigation.
